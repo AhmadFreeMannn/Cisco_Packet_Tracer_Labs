@@ -22,7 +22,7 @@ The DHCP server automatically assigns IP addresses to client devices in the loca
 
 ## Network Topology
 
-![Lab-03-Multi-Router-Network](screenshots/01-Topology/Lab-03-Multi-Router-Network.png)
+![Lab-03-Multi-Router-Network](ScreenShots/01-Topology/Lab-03-Multi-Router-Network.png)
 
 ## Devices
 
