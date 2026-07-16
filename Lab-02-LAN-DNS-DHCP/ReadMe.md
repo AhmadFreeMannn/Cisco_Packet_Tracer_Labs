@@ -31,8 +31,8 @@ This lab demonstrates a small LAN network using Cisco Packet Tracer. The topolog
 
 The DNS server is configured to resolve the following domain names:
 
-- `google.com`
-- `iran.network.ir`
+- `www.google.com`
+- `www.iran.network.ir`
 
 ### DHCP Configuration
 
