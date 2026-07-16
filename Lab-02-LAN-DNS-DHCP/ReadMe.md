@@ -6,7 +6,7 @@ This lab demonstrates a small LAN network using Cisco Packet Tracer. The topolog
 
 ## Network Topology
 
-![Topology-DHCP](screenshots/01-Topology/Topology-DHCP.png)
+![Topology-DHCP](ScreenShots/01-Topology/Topology-DHCP.png)
 
 ## Devices
 
