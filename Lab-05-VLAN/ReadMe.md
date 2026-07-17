@@ -6,7 +6,7 @@ This lab demonstrates VLAN configuration in Cisco Packet Tracer. A single Layer 
 
 ## Network Topology
 
-![Topology](screenshots/01-Topology/Lab-05-VLAN-Configuration.png)
+![Topology](ScreenShots/01-Topology/Lab-05-VLAN-Configuration.png)
 
 ## Devices
 
